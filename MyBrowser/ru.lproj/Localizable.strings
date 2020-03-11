@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  MyBrowser
+
+  Created by luowei on 15/6/26.
+  Copyright (c) 2015年 wodedata. All rights reserved.
+*/
+"HomeURL" = "http://www.scp-wiki.net";
+"SearchURL" = "http://www.scp-wiki.net/search:site/q/%@";
+
+"My Browser" = "Спасибо вам за поддержку для моего браузера\n Copyright (c) 2020 ZhangYiming. All rights reserved.";
+"OK" = "ОК";
+"Cancel" = "отменить";
+"Close" = "Закрыть";
+"Error" = "ошибка";
+"Open" = "открыто";
+"Call" = "набор номера";
+"Close All" = "Закрыть Все";
+"Bookmarks" = "закладки";
+"Nighttime" = "Ночное Время";
+"Daytime" = "дневное время";
+"No Image" = "нет Изображения";
+"Ad Block" = "Ad Block";
+"Image Mode" = "Поддерживаю фотографии";
+"No AdBlock" = "защищены объявления";
+"About Me" = "Обо Мне";
+"Keyword or Url" = "Ключевое слово или URL-адрес";
+"Add Favorite Success" = "Добавить в избранное успеха";
+"Update Favorite Success" = "Обновление Любимое Успех";
+"Favorites" = "Избранные";
+"History" = "История";
+"Has Been Favorited" = "Вы Беен Избранные";
+"Clear History" = "ясно";
+"Clear All History" = "Очистить все";
+"Clear History Success" = "Очистить историю успеха";
+"Successfully cleared Footprint" = "Успешно очищается след";
+"Successfully Set NoImage Mode" = "Успешно указан NoImage режим";
+"Add Favorite" = "добавить в избранное";
+"Update Favorite" = "Обновление Любимое";
+"Editing isn't Saved" = "Редактирование не сохраняется";
+"Title" = "название";
+"Url Address" = "Веб-сайт Адрес";
+"Is Empty" = "Пустой";
+"Scan RQ Code" = "Сканирование RQ код";
+"Url Saved,Open Now ?" = "Url Сохранено в картонные, Открытый Теперь?";
+"Not Url Saved in Pasteboard" = "Не URL, Сохранено в картонные";
+"RQ Code" = "RQ код";
+"ReScan" = "ReScan";
+"Unable Open Web Page With NetWork Disconnected" = "Не открыть страницу, проверьте настройки сети";
+"HTTPS Certifcate Not Trust" = "Невозможно проверить сертификат сервера\n My браузер не в состоянии проверить %@ сертификации. Вы по-прежнему?";

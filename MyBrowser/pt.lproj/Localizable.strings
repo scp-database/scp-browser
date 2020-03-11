@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  MyBrowser
+
+  Created by luowei on 15/6/26.
+  Copyright (c) 2015年 wodedata. All rights reserved.
+*/
+"HomeURL" = "http://www.scp-wiki.net";
+"SearchURL" = "http://www.scp-wiki.net/search:site/q/%@";
+
+"My Browser" = "Graças você o apoio para meu navegador\n Copyright (c) 2020 ZhangYiming. All rights reserved.";
+"OK" = "OK";
+"Cancel" = "cancelar";
+"Close" = "fechar";
+"Error" = "erro";
+"Open" = "aberto";
+"Call" = "discar";
+"Close All" = "Feche Tudo";
+"Bookmarks" = "Bookmarks";
+"Nighttime" = "noite";
+"Daytime" = "dia";
+"No Image" = "Sem Imagem";
+"Ad Block" = "Ad Block";
+"Image Mode" = "Sem imagem";
+"No AdBlock" = "ad reservados";
+"About Me" = "Sobre Mim";
+"Keyword or Url" = "Palavra-chave ou URL";
+"Add Favorite Success" = "Adicionar Sucesso Favorita";
+"Update Favorite Success" = "Atualização Sucesso Favorita";
+"Favorites" = "favoritos";
+"History" = "história";
+"Has Been Favorited" = "Você foi favorito";
+"Clear History" = "claro";
+"Clear All History" = "Limpar Tudo";
+"Clear History Success" = "Limpar Histórico de Sucesso";
+"Successfully cleared Footprint" = "Apuradas com sucesso Footprint";
+"Successfully Set NoImage Mode" = "Definir com sucesso Modo noimage";
+"Add Favorite" = "Adicionar favorito";
+"Update Favorite" = "atualização favorita";
+"Editing isn't Saved" = "Edição não é salvo";
+"Title" = "título";
+"Url Address" = "Url Endereço";
+"Is Empty" = "está Vazio";
+"Scan RQ Code" = "Digitalização Código RQ";
+"Url Saved,Open Now ?" = "Url Salvo em papelão, Open Now?";
+"Not Url Saved in Pasteboard" = "Não Url, salvo no papelão到剪粘板";
+"RQ Code" = "Código RQ";
+"ReScan" = "ReScan";
+"Unable Open Web Page With NetWork Disconnected" = "Não abrir a página, verifique as configurações de rede";
+"HTTPS Certifcate Not Trust" = "Não é possível verificar o certificado do servidor\n do meu navegador incapaz de verificar %@ 'uma certificação. Você continuar?";

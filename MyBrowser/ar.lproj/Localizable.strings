@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  MyBrowser
+
+  Created by luowei on 15/6/26.
+  Copyright (c) 2015年 wodedata. All rights reserved.
+*/
+"HomeURL" = "http://www.scp-wiki.net";
+"SearchURL" = "http://www.scp-wiki.net/search:site/q/%@";
+
+"My Browser" = "شكرا لك الدعم لمتصفحي\n Copyright (c) 2020 ZhangYiming. All rights reserved.";
+"OK" = "حسنا";
+"Cancel" = "إلغاء";
+"Close" = "قريب";
+"Error" = "خطأ";
+"Open" = "فتح";
+"Call" = "الطلب";
+"Close All" = "إغلاق كافة";
+"Bookmarks" = "العناوين";
+"Nighttime" = "الليل";
+"Daytime" = "وضح النهار";
+"No Image" = "لا يوجد صورة";
+"Ad Block" = "ادبلوك";
+"Image Mode" = "Image Mode";
+"No AdBlock" = "No Adblock";
+"About Me" = "عني";
+"Keyword or Url" = "الكلمة أو رابط";
+"Add Favorite Success" = "إضافة النجاح المفضلة";
+"Update Favorite Success" = "تحديث النجاح المفضلة";
+"Favorites" = "المفضلة";
+"History" = "تاريخ";
+"Has Been Favorited" = "معك لم يكن المفضله";
+"Clear History" = "واضح";
+"Clear All History" = "واضح جميع";
+"Clear History Success" = "مسح المحفوظات النجاح";
+"Successfully cleared Footprint" = "مسح البصمة بنجاح";
+"Successfully Set NoImage Mode" = "تعيين بنجاح وضع النص";
+"Add Favorite" = "إضافة المفضلة";
+"Update Favorite" = "تحديث المفضلة";
+"Editing isn't Saved" = "لم يتم حفظ التحرير";
+"Title" = "عنوان";
+"Url Address" = "الموقع الالكترونى";
+"Is Empty" = "فارغ";
+"Scan RQ Code" = "مسح رمز RQ";
+"Url Saved,Open Now ?" = "رابط المحفوظة في كرتون، فتح الآن؟";
+"Not Url Saved in Pasteboard" = "لا رابط، المحفوظة في كرتون";
+"RQ Code" = "RQ مدونة";
+"ReScan" = "إعادة تفحص";
+"Unable Open Web Page With NetWork Disconnected" = "يتم فتح الصفحة، تحقق من إعدادات الشبكة";
+"HTTPS Certifcate Not Trust" = "غير قادرة على التحقق من شهادة الخادم \ على متصفحي غير قادرة على التحقق٪ @ شهادة. هل تستمر؟";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  MyBrowser
+
+  Created by luowei on 15/6/26.
+  Copyright (c) 2015年 wodedata. All rights reserved.
+*/
+"HomeURL" = "http://www.scp-wiki.net";
+"SearchURL" = "http://www.scp-wiki.net/search:site/q/%@";
+
+
+"My Browser" = "Thanks For You Support For My Browser\n Copyright (c) 2020 ZhangYiming. All rights reserved.";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Close" = "Close";
+"Error" = "Error";
+"Open" = "Open";
+"Call" = "Call";
+"Close All" = "Close All";
+"Bookmarks" = "Bookmarks";
+"Nighttime" = "Nighttime";
+"Daytime" = "Daytime";
+"No Image" = "No Image";
+"Ad Block" = "Ad Block";
+"Image Mode" = "Image Mode";
+"No AdBlock" = "No AdBlock";
+"About Me" = "About Me";
+"Keyword or Url" = "Keyword or Url";
+"Add Favorite Success" = "Add Favorite Success";
+"Update Favorite Success" = "Update Favorite Success";
+"Favorites" = "Favorites";
+"History" = "History";
+"Has Been Favorited" = "You Has Been Favorited";
+"Clear History" = "Clear";
+"Clear All History" = "Clear All";
+"Successfully cleared Footprint" = "Successfully cleared Footprint";
+"Successfully Set NoImage Mode" = "Successfully Set NoImage Mode";
+"Clear History Success" = "Clear History Success";
+"Add Favorite" = "Add Favorite";
+"Update Favorite" = "Update Favorite";
+"Editing isn't Saved" = "Editing isn't Saved";
+"Title" = "Title";
+"Url Address" = "Url Address";
+"Is Empty" = "Is Empty";
+"Scan RQ Code" = "Scan RQ Code";
+"Url Saved,Open Now ?" = "Url Saved in Pasteboard,Open Now ?";
+"Not Url Saved in Pasteboard" = "Not Url,Saved in Pasteboard";
+"RQ Code" = "RQ Code";
+"ReScan" = "Rescan";
+"Unable Open Web Page With NetWork Disconnected" = "Cann't open the page, check the network settings";
+"HTTPS Certifcate Not Trust" = "Unable to verify the server Certifcate\n MyBrowser unable to verify%@'s certification. Are you continue?";
